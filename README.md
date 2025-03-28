@@ -1,6 +1,6 @@
 ## 👋 안녕하세요! Welcome!
 
-AI와 데이터로 뉴스를 다시 쓰는, **YNA AI Lab**입니다.  
+**YNA AI컨텐츠부**입니다.  
 우리는 LLM, 데이터 시각화, 자동화 기술을 활용해 언론의 새로운 미래를 설계합니다.
 
 ---
@@ -8,12 +8,12 @@ AI와 데이터로 뉴스를 다시 쓰는, **YNA AI Lab**입니다.
 ## 🛠️ 기술 스택 / Tech Stack
 
 **AI / NLP / LLM**
-- GPT / Gemini / Claude / Mistral
+- GPT / Gemini / Claude 
 - LangChain, Prompt Engineering
 
 **백엔드 / API**
-- Python, FastAPI, Flask
-- PostgreSQL, MongoDB
+- Python, FastAPI
+- PostgreSQL, MongoDB, Typesense
 
 **프론트엔드 / 시각화**
 - React, Next.js, TailwindCSS
@@ -43,7 +43,7 @@ AI와 데이터로 뉴스를 다시 쓰는, **YNA AI Lab**입니다.
 
 ## 📫 Contact
 - Organization: [yna-ai-dept](https://github.com/yna-ai-dept)
-- Email: contact@yna.ai *(예시)*
+- Email: ynaailab@gmail.com *(예시)*
 - Blog (coming soon!)
 
 ---
