@@ -29,7 +29,6 @@
 | 프로젝트명 | 설명 |
 |------------|------|
 | [WeatherNews](https://github.com/yna-ai-dept/WeatherNews) | 날씨 + LLM 요약 기반 자동 뉴스 생성 시스템 |
-| [NotebookLM-News](https://github.com/yna-ai-dept/NotebookLM-News) | 발언록 기반 뉴스레터 자동화 플랫폼 |
 | [NameRecommendation](https://github.com/yna-ai-dept/NameRecommendation) | LLM 기반 콘텐츠 제목 추천 서비스 |
 
 ---
