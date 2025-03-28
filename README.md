@@ -1,16 +1,57 @@
-## Hi there 👋
+## 👋 안녕하세요! Welcome!
 
-<!--
-**yna-ai-dept/yna-ai-dept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI와 데이터로 뉴스를 다시 쓰는, **YNA AI Lab**입니다.  
+우리는 LLM, 데이터 시각화, 자동화 기술을 활용해 언론의 새로운 미래를 설계합니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 기술 스택 / Tech Stack
+
+**AI / NLP / LLM**
+- GPT / Gemini / Claude / Mistral
+- LangChain, Prompt Engineering
+
+**백엔드 / API**
+- Python, FastAPI, Flask
+- PostgreSQL, MongoDB
+
+**프론트엔드 / 시각화**
+- React, Next.js, TailwindCSS
+- Recharts, Chart.js, D3.js
+
+**DevOps**
+- Docker, GitHub Actions, Cloudflare Workers
+
+---
+
+## 🧠 주요 프로젝트 / Projects
+
+| 프로젝트명 | 설명 |
+|------------|------|
+| [WeatherNews](https://github.com/yna-ai-dept/WeatherNews) | 날씨 + LLM 요약 기반 자동 뉴스 생성 시스템 |
+| [NotebookLM-News](https://github.com/yna-ai-dept/NotebookLM-News) | 발언록 기반 뉴스레터 자동화 플랫폼 |
+| [NameRecommendation](https://github.com/yna-ai-dept/NameRecommendation) | LLM 기반 콘텐츠 제목 추천 서비스 |
+
+---
+
+## 🧩 진행 중인 R&D
+- `LLM 기반 뉴스 요약 최적화`
+- `PDF/이미지 기반 데이터 시각화 자동화`
+- `다국어 뉴스 번역 시스템 (NLLB-200 + Prompt)`
+
+---
+
+## 📫 Contact
+- Organization: [yna-ai-dept](https://github.com/yna-ai-dept)
+- Email: contact@yna.ai *(예시)*
+- Blog (coming soon!)
+
+---
+
+> "우리는 뉴스의 새로운 언어를 연구합니다."
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yna-ai-dept&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
