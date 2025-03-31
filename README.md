@@ -13,14 +13,14 @@
 
 **백엔드 / API**
 - Python, FastAPI
-- PostgreSQL, MongoDB, Typesense
+- PostgreSQL, MongoDB, Typesense(VectorDB), ZEP(Graph RAG)
 
 **프론트엔드 / 시각화**
 - React, Next.js, TailwindCSS, MUI
-- Recharts, Chart.js, D3.js
+- Chart.js, D3.js
 
 **DevOps**
-- Docker, GitHub, Cloudflare Workers
+- Docker, Docker Swarm, GitHub
 
 ---
 
