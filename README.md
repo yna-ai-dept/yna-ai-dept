@@ -24,15 +24,6 @@
 
 ---
 
-## 🧠 주요 프로젝트 / Projects
-
-| 프로젝트명 | 설명 |
-|------------|------|
-| [WeatherNews](https://github.com/yna-ai-dept/WeatherNews) | 날씨 + LLM 요약 기반 자동 뉴스 생성 시스템 |
-| [NameRecommendation](https://github.com/yna-ai-dept/NameRecommendation) | LLM 기반 콘텐츠 제목 추천 서비스 |
-
----
-
 ## 🧩 진행 중인 R&D
 - `LLM 기반 뉴스 요약 최적화`
 - `PDF/이미지 기반 데이터 시각화 자동화`
