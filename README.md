@@ -16,11 +16,11 @@
 - PostgreSQL, MongoDB, Typesense
 
 **프론트엔드 / 시각화**
-- React, Next.js, TailwindCSS
+- React, Next.js, TailwindCSS, MUI
 - Recharts, Chart.js, D3.js
 
 **DevOps**
-- Docker, GitHub Actions, Cloudflare Workers
+- Docker, GitHub, Cloudflare Workers
 
 ---
 
